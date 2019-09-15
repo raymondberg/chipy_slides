@@ -1,0 +1,1 @@
+pipenv run landslide slides.md "$@" -d build/presentation.html

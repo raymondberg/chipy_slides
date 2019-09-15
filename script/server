@@ -1,0 +1,4 @@
+script/update
+open build/presentation.html
+script/update -w
+echo "Shutting Down"
