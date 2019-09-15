@@ -38,12 +38,20 @@ For the complete code of conduct see: http://www.chipy.org/pages/conduct/
 
 # Slack
 
-How To Join:
-- https://joinchipyslack.herokuapp.com/
-- Sign up link also available on www.chipy.org
-- Join a Room, Create Your Own, Interact with our amazing Community!
-
-![slack_signup](resources/slack_signup.png)
+<table>
+  <tr>
+    <td>
+      <h2>How To Join</h2>
+      <ul>
+        <li>Go to <a href="https://joinchipyslack.herokuapp.com">joinchipyslack.herokuapp.com</a></li>
+        <li>Sign up link also available on www.chipy.org</li>
+        <li>Join a Room, Create Your Own, Interact with our amazing Community!</li>
+    </td>
+    <td>
+      <img src="resources/slack_signup.png" alt="slack_signup" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ----
 
