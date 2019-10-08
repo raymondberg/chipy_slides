@@ -1,1 +1,1 @@
-pipenv run landslide slides.md "$@" -d build/presentation.html
+pipenv run landslide main.cfg "$@"
