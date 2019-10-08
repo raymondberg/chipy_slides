@@ -1,2 +1,2 @@
 pipenv install
-script/bootstrap
+script/update
